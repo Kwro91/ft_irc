@@ -5,7 +5,7 @@
 
 ## Summary
 - [About the project](#about-the-project)
-- [Installation](#installation)
+- [Installation & Usage](#installation--usage)
 - [Team](#team)
 - [Links](#links)
 
