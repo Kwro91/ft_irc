@@ -70,3 +70,12 @@ project made with:
 ## Links
 
 This repository is a copy. The original Repo is on [this page](https://github.com/GigotBlaster/IRC-git-/). It may be private.
+
+
+## Screenshots
+Run
+<img width="684" alt="Run" src="Imgs/1Run.png">
+Connect
+<img width="684" alt="Run" src="Imgs/2Connect.png">
+Use channel
+<img width="684" alt="Run" src="Imgs/3Use.png">
