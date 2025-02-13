@@ -8,6 +8,7 @@
 - [Installation & Usage](#installation--usage)
 - [Team](#team)
 - [Links](#links)
+- [Screenshots](#screenshots)
 
 
 ## About the project
@@ -25,7 +26,7 @@ To run the project, you will need to **make**. Then run the project like this :
 ./ircserv port password
 ```
 
-The port must be between 6666 & 6668 included.
+The port must be between 6665 & 6669 included.
 
 Then you can use another terminal window to :
 ```bash
